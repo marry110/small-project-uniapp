@@ -1,0 +1,1 @@
+<view class="box"><view>{{'数据绑定的学习\n\t\t'+message+''}}</view><view>{{''+(1+'你好中国'+'大好')+''}}</view><view class="box">{{''+(flag?'我是假的':'我是真的')+''}}</view></view>
